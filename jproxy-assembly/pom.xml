@@ -14,13 +14,6 @@
     <name>jproxy-assembly</name>
     <url>http://maven.apache.org</url>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.wind3stone.jproxy</groupId>
-            <artifactId>jproxy-core</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
     <build>
         <finalName>jproxy</finalName>
         <plugins>
